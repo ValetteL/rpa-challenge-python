@@ -16,8 +16,6 @@ Ce script Python utilise Selenium pour remplir automatiquement un formulaire web
 ## 🛠️ Prérequis
 
 - Python 3.x
-- Google Chrome installé
-- [ChromeDriver](https://chromedriver.chromium.org/) compatible (géré automatiquement)
 - Les packages Python suivants :
   - `selenium`
   - `openpyxl`
