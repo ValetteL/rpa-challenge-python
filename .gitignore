@@ -1,0 +1,7 @@
+# .gitignore
+*.pyc
+__pycache__/
+*.xlsx
+CFT driver/
+.env
+.venv/
