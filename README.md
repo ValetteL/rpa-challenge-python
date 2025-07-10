@@ -1,6 +1,6 @@
 # 🤖 RPA Challenge - Automatisation du remplissage de formulaire
 
-Projet d’automatisation du site [rpachallenge.com](https://rpachallenge.com/) !  
+Projet d’automatisation du site [rpachallenge.com](https://rpachallenge.com/) !  (Input form)
 Ce script Python utilise Selenium pour remplir automatiquement un formulaire web à partir d’un fichier Excel.  
 ---
 
